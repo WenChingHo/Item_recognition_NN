@@ -8,7 +8,7 @@
 ## General info: 
 Create a model that can identify *sticky notes, colorful soap, and ACNH switch console* to learn aboutt he underlying process and technicality behind traiing a object detection NN model. <br><br>
 <img src="https://github.com/WenChingHo/Item_recognition_NN/blob/main/outcome.png" width="400"> | <img src="https://github.com/WenChingHo/RT_Object_Detection/blob/main/RT_detection.png" width="400"><br><br>
-\-Confidence with different depths  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;-Confidence with hands holding/covering the object (webcam)
+\-Confidence with different depths  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;-Confidence with hands holding/covering the object
 ### Process:
 - Use ffmpeg to cut video recording of target objects into jpeg file 
 - Use labelImg to label the objects
