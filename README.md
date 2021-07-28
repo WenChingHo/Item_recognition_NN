@@ -1,4 +1,4 @@
-#Real-time Object Recognition (openCV + YOLOv4)
+# Real-time Object Recognition (openCV + YOLOv4)
 
 ## Table of contents
 * [Intro / General info](#general-info)
