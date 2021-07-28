@@ -1,4 +1,4 @@
-# Webcam Object Recognition (openCV + YOLOv4)
+#Real-time Object Recognition (openCV + YOLOv4)
 
 ## Table of contents
 * [Intro / General info](#general-info)
@@ -20,7 +20,7 @@ tiny.conv.29 -map
 <br><br>
 ## Technologies:
 - Python 3.9
-- OpenCV 4.5.2 ([Configuration](https://github.com/user/repo/blob/branch/other_file.md))
+- OpenCV 4.5.2 ([Configuration](https://github.com/WenChingHo/RT_Object_Detection/blob/main/opencv_config.txt))
 - [darknet (YOLOv4-tiny.weights)](https://github.com/AlexeyAB/darknet)
 - [LabelImg](https://github.com/tzutalin/labelImg)
 - ffmpeg
